@@ -28,8 +28,8 @@ Developed by: Tanner Hall and Kayla Behnke
 
 
 ## Reports
-An inital report presentation was created in spring 2023 for use at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin - Eau Claire. A poster was showcased to outline the results of the research. The poster is viewable online ![here][https://drive.google.com/file/d/14MtOL7b3iHPpHp_Xpvq9fhfwX_jckTjj/view?usp=sharing].
+An inital report presentation was created in spring 2023 for use at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin - Eau Claire. A poster was showcased to outline the results of the research. The poster is viewable online [here](https://drive.google.com/file/d/14MtOL7b3iHPpHp_Xpvq9fhfwX_jckTjj/view?usp=sharing).
 
 ## Other Resources
 ### Dataset
-The dataset used in the conducted research was the Br35H dataset. The dataset can be found and downloaded ![here][https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection]. The data was restructured into tumorous and non-tumorous images for the purpose of simplification. The images were used for both the generation of artificial images and then divided up for use in the evaluation of the atificial images via the convolutional neural network.
+The dataset used in the conducted research was the Br35H dataset. The dataset can be found and downloaded [here](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection). The data was restructured into tumorous and non-tumorous images for the purpose of simplification. The images were used for both the generation of artificial images and then divided up for use in the evaluation of the atificial images via the convolutional neural network.
