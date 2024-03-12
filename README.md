@@ -25,11 +25,11 @@ The code developed for this research can be broken into several parts. Firstly, 
 The convolutional neural network used in this research is used to evaluate the improvements of metrics with the addition of various artifical images created by the GAN models.
 
 #### Initial Implemention
-**Developed by: Tanner Hall, Kayla Behnke, and Elena Bourget**
+**Developed by: Tanner Hall, Kayla Behnke, and Elena Bourget**  
 The convolutional neural network, based on the example provided by TensorFlow (see resources), was used for inital assessment of the addition of artifiial data into the dataset. This project displays the accuracy visually and only runs a single trial. Because of the limitations in both speed and detail, this inital implementation was abandoned, but served as the basis for the modified implementation.
 
 #### Modified Implementation
-**Developed by: Tanner Hall and Kayla Behnke**
+**Developed by: Tanner Hall and Kayla Behnke**  
 The modified convolutional neural network features various improvements over the inital implementation. Firsty, the program features k-fold cross validation in an 8 traning and 2 testing division on the original, real images. This results in a large increase in the number of trials runs conducted on the artifical images and allows for more reliable metrics to be achieved. This implementation also includes the addition of various metrics, like accuracy, precision, recall, and f-score. This enables a larger numerical analysis of the results collected by the model.
 
 ## Reports
