@@ -1,4 +1,4 @@
-# UW - Eau Clare - GAN Generated MRI Research
+# UWEC - GAN Generated MRI Research
 Contributors: Tanner Hall, Elena Bourget, Kayla Behnke
 
 ## Overview
